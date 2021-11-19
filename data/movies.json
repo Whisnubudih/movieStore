@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Naruto",
+      "description": "The Ninja Ways",
+      "imageUrl":"https://i1.wp.com/attackongeek.com/wp-content/uploads/2016/08/62a06c2478504d01b6048aefcc75f915c5621171.jpg?fit=190%2C266&ssl=1",
+      "type" : "Box Office",
+      "price": 500000,
+      "stock": 10,
+      "UserId": 2,
+      "CategoryId": 4
+    },
+    {
+      "id": 2,
+      "name": "Conjuring",
+      "description": "The Conjuring is a 2013 American supernatural horror film",
+      "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t6k_-xAVBM_gTIAz7jR7JtcDcnsXP4o0Rw&usqp=CAU",
+      "type" : "Box Office",
+      "price": 600000,
+      "stock": 6,
+      "UserId": 2,
+      "CategoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "Descedent of The Sun",
+      "description": "The korean drama series",
+      "imageUrl":"https://bit.ly/3co1S1h",
+      "type" : "Premiere",
+      "price": 3000000,
+      "stock": 7,
+      "UserId": 3,
+      "CategoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Warkop DKI",
+      "description": "The Legend Movies from Indonesia",
+      "imageUrl":"https://media.matamata.com/thumbs/2021/09/09/32406-film-warkop-dki-paling-populer-imdb/745x489-img-32406-film-warkop-dki-paling-populer-imdb.jpg",
+      "type" : "Premiere",
+      "price": 100000000,
+      "stock": 4,
+      "UserId": 4,
+      "CategoryId": 3
+    },
+    {
+      "id": 5,
+      "name": "Detective Conan",
+      "description": "Detective from Anime",
+      "imageUrl":"https://upload.wikimedia.org/wikipedia/id/c/c1/Detective_Conan_Characters.png",
+      "type" : "Premiere",
+      "price": 5000000,
+      "stock": 3,
+      "UserId": 3,
+      "CategoryId": 4
+    }
+  ]

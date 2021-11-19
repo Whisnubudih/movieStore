@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name" : "Samsul Ceper",
+        "age": 25,
+        "address" : "Bandung",
+        "gender" : "Male",
+        "UserId" : 1
+    },
+    {
+        "id": 2,
+        "name" : "Whisnu Budi",
+        "age": 26,
+        "address" : "Cimahi",
+        "gender" : "Male",
+        "UserId" : 2
+    },
+    {
+        "id": 3,
+        "name" : "Gregorius Andre",
+        "age": 24,
+        "address" : "Solo",
+        "gender" : "Male",
+        "UserId" : 3
+    },
+    {
+        "id": 4,
+        "name" : "Tatang Topi",
+        "age": 51,
+        "address" : "Jakarta",
+        "gender" : "Female",
+        "UserId" : 4
+    }
+  ]

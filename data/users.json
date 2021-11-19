@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@admin.com",
+        "password": "admin",
+        "role": "Admin"
+    },
+    {
+        "id": 2,
+        "username": "andre",
+        "email": "andre@h8.com",
+        "password": "1234",
+        "role": "User"
+    },
+    {
+        "id": 3,
+        "username": "whisnu",
+        "email": "whisnu@h8.com",
+        "password": "1234",
+        "role": "User"
+    },
+    {
+        "id": 4,
+        "username": "tatang",
+        "email": "tatang@h8.com",
+        "password": "1234",
+        "role": "User"
+    }
+]
